@@ -22,9 +22,10 @@ class IndexPage extends React.Component {
             👋
           </span>
         </h1>
-        <p>Welcome to Ideate Blog website. .</p>
+            
+        <p>Welcome to Ideate Blog website.</p>
         <p>
-         Come learn about how design meets branding
+         Learn about how design meets branding
         </p>
         <p>Now go build something great!</p>
         <Link to="/blog/">
