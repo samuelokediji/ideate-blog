@@ -15,6 +15,13 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
+        <nav>
+          <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Blog</li>
+          </ul>
+        </nav>
         <img style={{ margin: 0 }} src="https://res.cloudinary.com/unitech-global-resource/image/upload/v1595118073/ID8_lmo8lb.png" alt="" />
         <h1>
           Hey people{" "}
